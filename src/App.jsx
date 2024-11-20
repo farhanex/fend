@@ -6,7 +6,8 @@ import Dashboard from "./pages/Dashboard";
 import EmployeeList from "./components/EmployeeList";
 import AddEmployee from "./components/AddEmployee";
 import EditEmployee from "./components/EditEmployee";
-export const URL = "http://localhost:5000"
+// export const URL = "http://localhost:5000"
+export const URL = "https://bend-b0v9.onrender.com"
 function App() {
   return (
       <Router>
